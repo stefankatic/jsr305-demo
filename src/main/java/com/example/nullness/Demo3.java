@@ -18,22 +18,22 @@ public class Demo3 {
   public static void notCompiling() {
     Demo3 demo = new Demo3();
 
-      if (demo.getNullable() != null) {
-        // do something with it.
-        System.out.println(demo.getNullable().toLowerCase());
-      }
-
-      // 5 lines later
-      if (demo.getNullable() != null) {
-        // do something with it.
-        System.out.println(demo.getNullable().toLowerCase());
-      }
-
-      // 10 lines later
-      if (demo.getNullable() != null) {
-        // do something with it.
-        System.out.println(demo.getNullable().toLowerCase());
-      }
+//    if (demo.getNullable() != null) {
+//      // do something with it.
+//      System.out.println(demo.getNullable().toLowerCase());
+//    }
+//
+//    // 5 lines later
+//    if (demo.getNullable() != null) {
+//      // do something with it.
+//      System.out.println(demo.getNullable().toLowerCase());
+//    }
+//
+//    // 10 lines later
+//    if (demo.getNullable() != null) {
+//      // do something with it.
+//      System.out.println(demo.getNullable().toLowerCase());
+//    }
   }
 
 

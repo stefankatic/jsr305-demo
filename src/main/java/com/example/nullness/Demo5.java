@@ -16,7 +16,7 @@ public class Demo5 {
     User u = this.user;
     if (u != null) {
       u.doSquats();
-      if (this.user.isExpired()) {
+      if (u.isExpired()) {
         System.out.println("Expired");
       }
     }

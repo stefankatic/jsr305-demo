@@ -16,6 +16,6 @@ public class User {
   }
 
   public void makeCode() {
-
+    System.out.println("Making code. In java. Without nulls.");
   }
 }
