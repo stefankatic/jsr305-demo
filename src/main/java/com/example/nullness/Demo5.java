@@ -21,6 +21,7 @@ public class Demo5 {
       }
     }
     // other instructions
+    System.out.println("We rock");
 
     if (u != null) {
       u.makeCode();
